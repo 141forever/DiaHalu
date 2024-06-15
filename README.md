@@ -3,4 +3,3 @@ This is the repository for the paper **DiaHalu: A Dialogue-level Hallucination E
 
 [[ARXIV]](https://arxiv.org/abs/2403.00896)
 
-The second version is coming soon.
