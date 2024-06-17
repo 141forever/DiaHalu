@@ -6,7 +6,7 @@ This benchmark covers four dialogue domains and five hallucination subtypes, ext
 [[ARXIV]](https://arxiv.org/abs/2403.00896)
 
 # Versions
-The 1st version (corresponding to arxiv v1) of DiaHalu is diahalu.xlsx.
+The 1st version (corresponding to arxiv v1) of DiaHalu is Diahalu_V1.xlsx.
 
 The 2nd version (corresponding to arxiv v2, coming soon) of DiaHalu is DiaHalu_V2.xlsx. In this version, we augment the dataset from 748 to 1103 samples. 
 GPT4 generates the latest 355 samples.
