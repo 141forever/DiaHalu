@@ -12,6 +12,7 @@ The 2nd version (corresponding to arxiv v2, coming soon) of DiaHalu can be refer
 GPT4 generates the latest 355 samples.
 
 # Citation
+'''
 @article{DBLP:journals/corr/abs-2403-00891,
   author       = {Kedi Chen and
                   Jie Zhou and
@@ -31,3 +32,4 @@ GPT4 generates the latest 355 samples.
   biburl       = {https://dblp.org/rec/journals/corr/abs-2403-00891.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
+'''
