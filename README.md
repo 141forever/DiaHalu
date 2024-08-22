@@ -9,7 +9,7 @@ DiaHalu is a dialogue-level hallucination benchmark, consisting of both factuali
 Then it is annotated by professional experts in academia and industry.
 This benchmark covers four dialogue domains and five hallucination subtypes, extending from factuality and faithfulness hallucination.
 
-![image]()
+![image](https://github.com/141forever/DiaHalu/blob/main/figures/overview.png)
 
 
 # Versions
