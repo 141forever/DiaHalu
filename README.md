@@ -11,6 +11,9 @@ This benchmark covers four dialogue domains and five hallucination subtypes, ext
 
 ![image](https://github.com/141forever/DiaHalu/blob/main/figures/overview.png)
 
+The four dialogue domains are knowledge-grounded, task-oriented, chit-chat and reasoning.
+About the five hallucination subtypes: Non-factual denotes factuality hallucination, Icoherence, Irrelevance, and Overreliance are extended from faithfulness hallucination, we also add reasoning errors as a kind of hallucination.
+
 
 # Versions
 The 1st version (corresponding to arxiv v1) can be called Diahalu_V1.xlsx. ChatGPT3.5 generates the 748 samples.
