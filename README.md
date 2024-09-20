@@ -1,5 +1,5 @@
 # DiaHalu
-This is the repository for the paper **DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models**.
+This is the repository for the paper **DiaHalu: A Dialogue-level Hallucination Evaluation Benchmark for Large Language Models** (EMNLP2024findings).
 DiaHalu is the first dedicated dialogue-level hallucination evaluation benchmark for hallucination detection in LLMs.
 
 [[ARXIV]](https://arxiv.org/abs/2403.00896)
