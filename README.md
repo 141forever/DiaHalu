@@ -21,6 +21,17 @@ The 1st version (corresponding to arxiv v1) can be called Diahalu_V1.xlsx. ChatG
 The 2nd version (corresponding to arxiv v2) of DiaHalu can be called DiaHalu_V2.xlsx. In this version, we augment the dataset from 748 to 1103 samples. 
  GPT4 generates the latest 355 samples.
 
+The Final benchmark is DiaHalu_Bench.jsonl. Each line is a dialogue sample, presented in the form of a Python dictionary:  
+
+- **ID**: Sample ID  
+- **text**: Dialogue content (between A and B)  
+- **label**: `0` or `1`, indicating no hallucination or hallucination  
+- **index**: `[num, type]`, the round number and type of hallucination; each sample may have multiple hallucinations (we annotate the first occurrence)  
+- **domain**: Type of dialogue  
+- **explanation**: Corresponding to the `index` field, explaining the cause of the hallucination  
+- **source**: Origin of the generated dialogue  
+- **Which LLM**: The LLM that generated the dialogue   
+
 # Citation
 If you think this benchmark helps, welcome to cite our paper.
 ```
